@@ -1,0 +1,24 @@
+p{
+		font-size: 25px;
+	}
+	.keys{
+		display: flex;
+	}
+	.key {
+    height: 36px;
+    width: 39px;
+    margin: 5px;
+    background-color: gold;
+    color: black;
+   
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+}
+	.key:hover{
+		cursor: pointer;
+		width: 60px;
+	}
+	.btn{
+		margin-top: 40px;
+	}
